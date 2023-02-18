@@ -1,0 +1,54 @@
+{
+     "items":[
+        {
+            "sys": {"id": "1"},
+            "fields": {
+            "title": "black wooden beads with rose gold pieces",
+            "price": 12000.00,
+            "image": {"fields":{"file":{"url":"protouch/black wooden beads with rose gold pieces.jpeg"}}}
+            }
+        },{
+            "sys": {"id": "2"},
+            "fields": {
+            "title": "diamond encrusted name special",
+            "price": 30000.00,
+            "image": {"fields":{"file":{"url":"protouch/dia.jpeg"}}}
+            }
+        },{
+            "sys": {"id": "3"},
+            "fields": {
+            "title": "gold and diamond encrusted combo",
+            "price": 38000.00,
+            "image": {"fields":{"file":{"url":"protouch/gold and diamond encrusted combo.jpeg"}}}
+            }
+        },{
+            "sys": {"id": "4"},
+            "fields": {
+            "title": "green glass bead and black stone beads combo",
+            "price": 8000.00,
+            "image": {"fields":{"file":{"url":"protouch/green glass bead and black stone beads combo.jpeg"}}}
+             }
+        },{
+            "sys": {"id": "5"},
+            "fields": {
+            "title": "midnight named stone bead combo",
+            "price": 18000.00,
+            "image": {"fields":{"file":{"url":"protouch/midnight named stone bead combo.jpeg"}}}
+            }
+        },{
+            "sys": {"id": "6"},
+            "fields": {
+            "title": "The Black Panther",
+            "price": 20000.00,
+            "image": {"fields":{"file":{"url":"web dev/protouch/panther black bead mash up.JPG"}}}
+            }   
+        },{
+            "sys": {"id": "7"},
+            "fields": {
+            "title": "red stone beads with lion and crown pieces",
+            "price": 12000.00,
+            "image": {"fields":{"file":{"url":"protouch/red stone beads with lion and crown pieces.JPG"}}}
+            }
+        } 
+    ]
+}
